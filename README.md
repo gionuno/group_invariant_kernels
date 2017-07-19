@@ -1,9 +1,13 @@
 # group_invariant_kernels
 Group Invariant Kernels, based on Learning with Group Invariant Features by Youssef Mroueh, et al.
 
-![image](image_and_phi.png)
+By applying transformations on noisy samples:
 
-This one calculates a bunch of histograms of random transformations of random samples to simulate a Harr Integrated Group Invariant Kernel function.
+![image](transformations.png)
+
+This one calculates a bunch of histograms of random transformations of random samples to approximate a Harr Integrated Group Invariant Kernel function.
+
+![image](image_and_phi.png)
 
 ![image](phi_barplots.png)
 
